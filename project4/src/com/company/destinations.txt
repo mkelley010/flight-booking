@@ -1,0 +1,24 @@
+Oslo
+Norway
+4 degrees Celsius, cloudy
+OSL
+Tokyo
+Japan
+10 degrees Celsius, sunny
+NRT
+Seattle
+United States
+40 degrees Fahrenheit, drizzling
+SEA
+New York City
+United States
+14 degrees Fahrenheit, light snow
+JFK
+Moscow
+Russia
+0 degrees Celsius, icy
+SVO
+Houston
+United States
+85 degrees Fahrenheit, sunny
+IAH
